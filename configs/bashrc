@@ -1,0 +1,12 @@
+# ~/.bashrc
+
+export EDITOR=vim
+export VISUAL=vim
+
+alias ll="ls -lah"
+alias gs="git status"
+alias gp="git pull"
+alias gc="git commit"
+alias py="python3"
+
+PS1='\u@\h:\w\$ '

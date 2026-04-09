@@ -1,0 +1,12 @@
+[user]
+    name = Zilioti
+    email = gazilioti@hotmail.com
+
+[core]
+    editor = vim
+
+[pull]
+    rebase = false
+
+[init]
+    defaultBranch = main
